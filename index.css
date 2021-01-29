@@ -55,3 +55,24 @@ table {
 .article {
     background-color: rgba(9, 255, 0, 0.418);
 }
+/* ==== BASE STYLES ==== */
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	color: #333;
+}
+h1, h2 {
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	font-size: 28.8px;
+}
+h2 {
+	font-size: 25.6px;
+	color: #E5127D;
+}
+.header p {
+	font-size: 18px;
+	letter-spacing: 2px;
+	color: #8C8E9B;
+}
