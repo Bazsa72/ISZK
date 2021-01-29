@@ -60,6 +60,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 18px;
 	color: #333;
+	row-gap: 32px;
 }
 h1, h2 {
 	font-family: 'Open Sans', sans-serif;
