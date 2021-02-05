@@ -56,6 +56,9 @@ table {
     background-color: rgba(9, 255, 0, 0.418);
 }
 /* ==== BASE STYLES ==== */
+* {
+	box-sizing: border-box;
+}
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.125rem;
@@ -79,4 +82,13 @@ h2 {
 }
 .picture {
 	width: 100%;
+}
+/* ==== LAYOUT STYLES ==== */
+.header {
+	text-align: center;
+	padding: 1.25rem;
+}
+.article {
+	width: 95%;
+	margin: 1.25rem auto;
 }
